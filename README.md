@@ -1,10 +1,4 @@
-# bug_bounty_checklist
-
-# Bug Bounty Checklist for Web App
-
-> This checklist may help you to have a good methodology for bug bounty hunting  
-When you have done a action, don't forget to check ;)  
-Happy hunting !  
+# bug_bounty_checklist  
 
 ## Table of Contents
 
