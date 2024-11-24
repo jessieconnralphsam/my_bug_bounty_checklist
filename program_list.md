@@ -1,9 +1,4 @@
 # Bug bounty public program list  
-> Here you can find a list of different ways to find public programs of bug bounty.
-If you have questions or suggestions, don't hesitate to contact me on twitter (https://twitter.com/_sehno_)  
-
-***
-
 ## Resources  
 https://github.com/arkadiyt/bounty-targets-data/tree/master/data  
 https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
